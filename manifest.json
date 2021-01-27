@@ -1,6 +1,6 @@
 {
     "name": "ULaval Adobe Connect HTML5",
-    "description": "Get redirected to the HTML5 version of Adobe Connect when you open a live or recorded course. This is an unofficial tool and it is not affiliated with the Université Laval.",
+    "description": "Get redirected to the HTML5 version of Adobe Connect when you open a live or recorded course.",
     "version": "1.0",
     "manifest_version": 2,
     "icons": {
