@@ -11,7 +11,7 @@
     },
     "background": {
         "scripts": [
-            "./redirector.js"
+            "./src/redirector.js"
         ]
     },
     "content_scripts": [
@@ -21,7 +21,7 @@
             ],
             "js": [
                 "./lib/jquery-3.4.1.min.js",
-                "./htmlActivator.js"
+                "./src/htmlActivator.js"
             ]
         }
     ],
