@@ -9,4 +9,4 @@ Chromium extension that automatically redirects to the HTML5 version of Adobe Co
 Available soon on the Chrome Web store.
 
 ## Special thanks
-William Guimont for the url: https://github.com/willGuimont/AdobeConnectLinux
+William Guimont-Martin for the url: https://github.com/willGuimont/AdobeConnectLinux
