@@ -26,7 +26,6 @@
         }
     ],
     "permissions": [
-        "tabs",
         "webRequest",
         "webRequestBlocking",
         "https://classevirtuelle.ulaval.ca/*"
