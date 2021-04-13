@@ -6,7 +6,7 @@
 Chromium extension that automatically redirects to the HTML5 version of Adobe Connect when you open a live or recorded online class.
 
 ## How to install
-Available soon on the Chrome Web store.
+The extension is available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/ulaval-adobe-connect-html/idnfbhpmefhpjhipmodgoabndangiljd).
 
 ## Special thanks
 William Guimont-Martin for the url: https://github.com/willGuimont/AdobeConnectLinux
