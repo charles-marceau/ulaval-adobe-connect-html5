@@ -4,7 +4,7 @@
 
 # ulaval-adobe-connect-html5
 ```diff
-- The University Laval portal now uses the up to date version of Adobe Connect by default. Therefore, this extension is not needed anymore.
+- [Deprecated] The Laval University portal now uses the up to date version of Adobe Connect by default.
 ```
 Chromium extension that automatically redirects to the HTML5 version of Adobe Connect when you open a live or recorded online class.
 
